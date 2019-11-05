@@ -70,8 +70,7 @@ nav{
 }
 
 #panels {
-	background-color: black;
-	opacity: .8;
+	background-color: rgba(0,0,0,0.8);
 	padding: 40px;
 	margin: 15px;
 	z-index: -1;
